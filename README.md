@@ -1,2 +1,4 @@
 # html-templates
-Different HTML/CSS designs that incorporates key design codes
+
+HTML/CSS designs that incorporate key design codes refer to the integration of fundamental principles of design like...
+
